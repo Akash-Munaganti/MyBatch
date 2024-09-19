@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg-container{
+    height:100vh;
+    background-size:cover;
+    background-image: url('https://wallpaperaccess.com/full/3283720.jpg');
+}
+.card1{
+    background-color:rgba(152, 41, 4, 0.808);
+    margin-left: 50px;
+    margin-right: 50px;
+    border-top-left-radius: 19px;
+    border-top-right-radius: 19px;
+    padding:20px;
+    border-style: double;
+}
+.head{
+    font-family:'monoton';
+    font-size: 33px;
+    font-weight: bold;
+    color:rgb(41, 70, 11);
+}
+.para1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    color:rgb(255, 254, 254);
+}
+.button1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: rgb(58, 87, 176);
+    border-radius:12px;
+    height:39px;
+    width:144px;
+    color:white;
+    border-width: 0px;
+    
+}
+.card1:hover{
+    background-color:#000000e6;
+}
+.button1:hover{
+background-color: rgb(48, 81, 15);
+}
+.stu-background-container{
+    background-image: linear-gradient(rgb(240, 223, 135),rgb(61, 230, 148),rgb(240, 223, 135),rgb(61, 230, 148));
+    background-size: cover;
+    height:400vh;
+}
+.student-card{
+    background-color:rgba(244, 234, 40, 0.877);
+    
+    
+    padding:20px;
+    border-style:solid;
+    border-width: 2px;
+    border-radius:12px ;
+    padding: 5px;
+    width:520px;
+   
+}
+.img-student{
+    height:150px;
+    width:130px;
+    border-style: solid;
+    border-radius: 5px;
+}
+.nameofstu{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 33px;
+    font-weight: bold;
+    color:rgb(6, 16, 144);
+}
+.stupara{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    color:rgb(12, 12, 12);
+}
+.main-head{
+    font-family:'monoton';
+    font-size: 44px;
+    font-weight:bolder;
+    color:rgb(14, 100, 53);
+    
+}
+.student-card:hover{
+ background-color:rgb(80, 118, 187);
+}
+.button2{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: rgb(58, 87, 176);
+    border-radius:12px;
+    height:39px;
+    width:144px;
+    color:white;
+    border-width: 0px;
+}
+.button21{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: rgb(58, 87, 176);
+    border-radius:12px;
+    height:39px;
+    width:144px;
+    color:white;
+    border-width: 0px;
+    margin-left:700px;
+}
+.button21:hover{
+ background-color:rgb(48, 81, 15);
+ 
+}
+.button2:hover{
+    background-color:rgb(160, 55, 26);
+    
+   }
+   .parahint{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    color:rgb(250, 247, 247);
+    background-color: rgb(75, 6, 80);
+   }
+.bg-stu-container{
+    background-image:linear-gradient(rgb(224, 199, 76),rgb(102, 163, 134),rgb(224, 199, 76),rgb(102, 163, 134));
+    height:180vh;
+    background-size: cover;
+}
+.head-pro{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 44px;
+    font-weight:bolder;
+    color:rgb(3, 21, 81);
+    
+}
+.pro-image{
+    height: 180px;
+    width:180px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(61, 61, 66);
+}
+.profile-card{
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+   border-radius: 13px;
+}
+.stuname1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 33px;
+    font-weight: bold;
+    color:rgb(6, 16, 144);
+}
+.boyo{
+    text-align: left;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 19px;
+    font-weight: bold;
+    color:rgb(18, 19, 32);
+    padding-left:20px;
+
+}
+span{
+    color:darkslateblue;
+    font-size: 16px;
+}
+.profile-card-gen{
+    background-color: white;
+    text-align: center;
+    padding:20px;
+    
+    border-radius: 13px;
+}
+.other-info{
+    background-color: white;
+    text-align: center;
+    padding:20px;
+ 
+    border-radius: 13px;
+    margin-top: 10px;
+}
+.stuname13{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 33px;
+    font-weight: bold;
+    color:rgb(6, 16, 144);
+    text-align: left;
+}
+.para-stu{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+    color:rgb(8, 9, 20);
+    text-align: left;
+}
+.button2{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: rgb(58, 87, 176);
+    border-radius:12px;
+    height:39px;
+    width:244px;
+    color:white;
+    border-width: 0px;
+
+}
+.button2:hover{
+    background-color:rgb(160, 55, 26);
+    
+   }
+   
+
